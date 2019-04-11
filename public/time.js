@@ -1,10 +1,10 @@
 import 'ui/angular-bootstrap';
-import 'plugins/kibana-time-plugin/lib/angular-bootstrap/css/btn-group.less';
-import 'plugins/kibana-time-plugin/lib/angular-bootstrap/css/carousel.less';
+import 'plugins/kibana-time-plugin/lib/angular-bootstrap/css/btn-group.scss';
+import 'plugins/kibana-time-plugin/lib/angular-bootstrap/css/carousel.scss';
 import 'plugins/kibana-time-plugin/lib/angular-bootstrap/js/carousel.js';
 import 'plugins/kibana-time-plugin/bower_components/bootstrap-addons/dist/css/bootstrap-addons.css';
 import 'plugins/kibana-time-plugin/bower_components/bootstrap-addons/dist/js/bootstrap-addons.js';
-import 'plugins/kibana-time-plugin/time.less';
+import 'plugins/kibana-time-plugin/time.scss';
 import 'plugins/kibana-time-plugin/timeController';
 import { VisFactoryProvider } from 'ui/vis/vis_factory';
 import { VisTypesRegistryProvider } from 'ui/registry/vis_types';
